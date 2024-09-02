@@ -1,5 +1,4 @@
 ﻿using FlightDBWriter.Database;
-using KafkaLib.Constants;
 using KafkaLib.Interfaces;
 using KafkaLib.Messages;
 
